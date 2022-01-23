@@ -9,4 +9,3 @@ In this application I performed:
 1. Layout editting for the items in the recycler view
 2. Implementing the adapter for the different layouts
 3. Run unit tests and instrumention tests
-4. 
